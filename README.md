@@ -1,0 +1,3 @@
+# movies
+please do read README becoz README is important to read you should know what to read and how to read the REAMDE.md file....
+please remember to add new files with random text 
